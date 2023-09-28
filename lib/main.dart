@@ -64,11 +64,9 @@ class _MyHomePageState extends State<MyHomePage> {
                   borderRadius: BorderRadius.circular(36.0),
                 ),
               ),
-              child: Container(
-                child: const Icon(
-                  Icons.add,
-                  color: Colors.black,
-                ),
+              child: Icon(
+                Icons.add,
+                color: Colors.black,
               ),
             ),
           ),

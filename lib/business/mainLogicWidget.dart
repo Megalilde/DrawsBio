@@ -47,7 +47,7 @@ class MainPageLogic{
   }
 
   void createSpace(List<Widget> myList) {
-      myList.add(SizedBox(width: 20));
+      myList.add(const SizedBox(width: 20));
   }
 
 }
